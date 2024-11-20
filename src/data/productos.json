@@ -1,0 +1,29 @@
+[
+  {
+    "id": "2",
+    "title": "Jean clásico",
+    "description": "Pantalón de jean azul oscuro",
+    "code": "JEA002",
+    "price": 3500,
+    "status": true,
+    "stock": 50,
+    "category": "Pantalones",
+    "thumbnails": [
+      "img/jean1.jpg"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Zapatillas deportivas",
+    "description": "Zapatillas de running con suela antideslizante",
+    "code": "ZAP003",
+    "price": 5400,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "img/zapatillas1.jpg",
+      "img/zapatillas2.jpg"
+    ]
+  }
+]
