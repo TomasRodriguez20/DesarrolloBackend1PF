@@ -1,1 +1,1 @@
-# DesarrolloBackend1PF
+Buenas, costo bastante esta entrega, por lo que entendi, nada de front, asi que trabaje todo del backend, probe el postman cada ruta y anda exelente, espero que este bien, Saludos! PD Si active network access para la ip 0.0.0.0
